@@ -1,9 +1,8 @@
-### Hi there 👋, my name is Thamires
+### Hi, I'm Thamires 👋
 #### I am a Front-End Development Student at Laboratoria Brazil
-![I am a Front-End Development Student at Laboratoria Brazil](file:///home/laboratoria/Downloads/Banner%20para%20Linkedin%20capa%20de%20perfil%20para%20programador%20.png)
 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I love  
+- ⚡ Fun fact: I love drawing                                                                                        
 
 <div align="center">
   <a href="https://github.com/thamisantos">
